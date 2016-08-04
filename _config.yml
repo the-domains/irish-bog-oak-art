@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.33481640578247607
 name: Irish Bog Oak & Art
+navigation:
+  - name: facebook page
+    url: 'https://m,facebook.com/irish-bog-art177229418973864/'
+    type: external
 title: Ancient & New
 description: and inbetween
