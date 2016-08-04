@@ -1,4 +1,3 @@
-layout_spectrum: 0.33481640578247607
 typography_spectrum: 0.7927950050216168
 color:
   brandStrength: 0.01728664361871779
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.33481640578247607
 name: Irish Bog Oak & Art
 title: Ancient & New
+description: and inbetween
