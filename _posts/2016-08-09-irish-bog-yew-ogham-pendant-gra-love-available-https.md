@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-09T18:39:39.814Z'
+datePublished: '2016-08-09T18:42:00.223Z'
+sourcePath: _posts/2016-08-09-irish-bog-yew-ogham-pendant-gra-love-available-https.md
 author: []
 via: {}
-dateModified: '2016-08-09T18:37:57.183Z'
+dateModified: '2016-08-09T18:41:59.703Z'
 title: ''
 publisher: {}
 description: >-
   Irish Bog Yew Ogham Pendant "Gra" (love) available @
   https://www.etsy.com/irish-bog-oak-and-art
 starred: false
-sourcePath: _posts/2016-08-09-irish-bog-yew-ogham-pendant-gra-love-available-https.md
 inFeed: true
 hasPage: true
 inNav: false
