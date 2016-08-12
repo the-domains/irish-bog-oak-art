@@ -1,20 +1,32 @@
-typography_spectrum: 0.7927950050216168
+title: Ancient & New
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.01728664361871779
-  lightness: 0.6493857351597399
-  saturation: 0.3900606599636376
-  rhythmicContrast: 0.9681217067409307
+  saturation: 0.3900607
+  brandStrength: 0.01702128
+  lightness: 0.6493858
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.33481640578247607
-name: Irish Bog Oak & Art
+    - '#FEFEFE'
+    - '#292929'
+    - '#646161'
+    - '#908E8D'
+    - '#B4B2B2'
+  rhythmicContrast: 0.9702128
+typography_spectrum: 0.7927950050216168
+description: and inbetween
 navigation:
   - name: facebook page
     url: 'https://m,facebook.com/irish-bog-art177229418973864/'
     type: external
-title: Ancient & New
-description: and inbetween
+layout_spectrum: 0.3348164057824761
+name: Irish Bog Oak & Art
