@@ -5,24 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3900607
   brandStrength: 0.01702128
-  lightness: 0.6493858
+  rhythmicContrast: 0.9702128
   brandColors:
     - '#FEFEFE'
     - '#292929'
     - '#646161'
     - '#908E8D'
     - '#B4B2B2'
-  rhythmicContrast: 0.9702128
-typography_spectrum: 0.7927950050216168
+  lightness: 0.6493858
+typography_spectrum: 0.7914894
 description: and inbetween
 navigation:
   - name: facebook page
